@@ -1,0 +1,5 @@
+#Python packages requirements, to install all of them run: pip install -r requirements.txt
+
+osrframework
+tweepy
+elasticsearch
